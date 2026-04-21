@@ -23,22 +23,24 @@ Tabel: buku
 - created_at
 - updated_at
 
-## Teknologi
+## Tools yang Digunakan
 
-- Laravel
-- PHP
-- MySQL
-- XAMPP
+- Laravel sebagai framework
+- PHP sebagai bahasa pemograman
+- MySQL sebagai database
+- XAMPP sebagai web server lokal 
 
 ## Cara Menjalankan Project
 
-1. Clone repository
-2. Jalankan `composer install`
-3. Copy `.env.example` menjadi `.env`
-4. Jalankan `php artisan key:generate`
-5. Atur database di file `.env`
-6. Jalankan `php artisan migrate`
-7. Jalankan `php artisan serve`
+1. Clone repository terlebih dahulu
+2. Masuk ke folder project: cd data-buku-laravel 
+3. Jalankan `composer install`
+4. Copy file `.env.example` menjadi `.env`
+5. Jalankan `php artisan key:generate`
+6. Atur database di file `.env`
+7. Jalankan `php artisan migrate`
+8. Jalankan `php artisan serve`
+9. Buka browser dan akses 
 
 ## Author
 
