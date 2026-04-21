@@ -1,17 +1,17 @@
-# 📚 CRUD Data Buku - Laravel
+# CRUD Data Buku - Laravel
 
-## 📖 Deskripsi
+## Deskripsi
 
 Aplikasi web sederhana untuk mengelola data buku menggunakan Laravel dengan fitur CRUD (Create, Read, Update, Delete).
 
-## 🎯 Fitur
+## Fitur
 
 - Menampilkan daftar buku
 - Menambahkan buku
 - Mengedit buku
 - Menghapus buku
 
-## 🗂️ Struktur Database
+## Struktur Database
 
 Tabel: buku
 
@@ -23,14 +23,14 @@ Tabel: buku
 - created_at
 - updated_at
 
-## 🛠️ Teknologi
+## Teknologi
 
 - Laravel
 - PHP
 - MySQL
 - XAMPP
 
-## ⚙️ Cara Menjalankan Project
+## Cara Menjalankan Project
 
 1. Clone repository
 2. Jalankan `composer install`
@@ -40,6 +40,6 @@ Tabel: buku
 6. Jalankan `php artisan migrate`
 7. Jalankan `php artisan serve`
 
-## 👩‍💻 Author
+## Author
 
 Dea Lova Asmara
